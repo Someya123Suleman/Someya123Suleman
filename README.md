@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ecommerce**
 
-- 🌱 I am currently learning AIML **Seaborn etc.**
+
 
 - 💬 Ask me about **React,Node,Express,MongoDB**
 
